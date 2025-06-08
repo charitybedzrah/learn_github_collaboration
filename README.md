@@ -12,5 +12,4 @@ After forking this Repository, update this README by adding your name to the lis
 - charitybedzrah
 - ["[Names of contributors]"]
 
-#I got the green check only when i added " ["[Names of contributors]"] " instead of my name
 
